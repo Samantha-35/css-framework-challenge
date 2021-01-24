@@ -1,3 +1,9 @@
+main{
+    overflow: hidden;
+}
+
+
+
 .container-lp{
     background-color:#8b9ba0;
     width: 100vw;
